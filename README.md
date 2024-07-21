@@ -7,6 +7,7 @@
 ## skill
 
 * Vue.js 3
+* pinia
 * TypeScript
 * json-server
 * tail-wind css
